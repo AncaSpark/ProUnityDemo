@@ -1,0 +1,117 @@
+2025-05-28 17:33:03.638 +03:00 [INF] User profile is available. Using 'C:\Users\AncaScanteie\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-05-28 17:33:03.897 +03:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-05-28 17:33:03.907 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44314/ - null null
+2025-05-28 17:33:03.918 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-05-28 17:33:03.918 +03:00 [INF] Hosting environment: Development
+2025-05-28 17:33:03.920 +03:00 [INF] Content root path: C:\Work\Demo\TaxCalculator.Web
+2025-05-28 17:33:04.513 +03:00 [INF] Executing endpoint '/ (/)'
+2025-05-28 17:33:04.576 +03:00 [INF] Executed endpoint '/ (/)'
+2025-05-28 17:33:04.581 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44314/ - 200 null text/html; charset=utf-8 674.831ms
+2025-05-28 17:33:04.593 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44314/_framework/blazor.web.js - null null
+2025-05-28 17:33:04.593 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44314/bootstrap/bootstrap.min.css - null null
+2025-05-28 17:33:04.593 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44314/TaxCalculator.Web.styles.css - null null
+2025-05-28 17:33:04.593 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44314/app.css - null null
+2025-05-28 17:33:04.594 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44314/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-28 17:33:04.596 +03:00 [INF] Executing endpoint 'Blazor web static files'
+2025-05-28 17:33:04.597 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44314/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 3.0643ms
+2025-05-28 17:33:04.606 +03:00 [INF] Sending file. Request path: '/_framework/blazor.web.js'. Physical path: 'N/A'
+2025-05-28 17:33:04.606 +03:00 [INF] Executed endpoint 'Blazor web static files'
+2025-05-28 17:33:04.606 +03:00 [INF] Sending file. Request path: '/TaxCalculator.Web.styles.css'. Physical path: 'C:\Work\Demo\TaxCalculator.Web\obj\Debug\net8.0\scopedcss\bundle\TaxCalculator.Web.styles.css'
+2025-05-28 17:33:04.606 +03:00 [INF] Sending file. Request path: '/app.css'. Physical path: 'C:\Work\Demo\TaxCalculator.Web\wwwroot\app.css'
+2025-05-28 17:33:04.607 +03:00 [INF] Sending file. Request path: '/bootstrap/bootstrap.min.css'. Physical path: 'C:\Work\Demo\TaxCalculator.Web\wwwroot\bootstrap\bootstrap.min.css'
+2025-05-28 17:33:04.608 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44314/app.css - 200 2591 text/css 14.4247ms
+2025-05-28 17:33:04.608 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44314/TaxCalculator.Web.styles.css - 200 5917 text/css 14.4253ms
+2025-05-28 17:33:04.609 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44314/_framework/blazor.web.js - 200 187162 text/javascript 16.355ms
+2025-05-28 17:33:04.610 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44314/bootstrap/bootstrap.min.css - 200 162720 text/css 16.4698ms
+2025-05-28 17:33:04.649 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44314/_vs/browserLink - null null
+2025-05-28 17:33:04.683 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44314/_vs/browserLink - 200 null text/javascript; charset=UTF-8 33.9523ms
+2025-05-28 17:33:05.206 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44314/favicon.png - null null
+2025-05-28 17:33:05.208 +03:00 [INF] Sending file. Request path: '/favicon.png'. Physical path: 'C:\Work\Demo\TaxCalculator.Web\wwwroot\favicon.png'
+2025-05-28 17:33:05.209 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44314/favicon.png - 200 1148 image/png 3.2624ms
+2025-05-28 17:33:16.911 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44314/counter - null null
+2025-05-28 17:33:16.916 +03:00 [INF] Executing endpoint '/counter (/counter)'
+2025-05-28 17:33:16.971 +03:00 [INF] Executed endpoint '/counter (/counter)'
+2025-05-28 17:33:16.972 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44314/counter - 200 null text/html; charset=utf-8 60.6473ms
+2025-05-28 17:33:16.983 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44314/_blazor/initializers - null null
+2025-05-28 17:33:16.984 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-28 17:33:16.986 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-28 17:33:16.986 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44314/_blazor/initializers - 200 null application/json; charset=utf-8 2.9487ms
+2025-05-28 17:33:16.992 +03:00 [INF] Request starting HTTP/2 POST https://localhost:44314/_blazor/negotiate?negotiateVersion=1 - null 0
+2025-05-28 17:33:16.993 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-28 17:33:16.999 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-28 17:33:17.000 +03:00 [INF] Request finished HTTP/2 POST https://localhost:44314/_blazor/negotiate?negotiateVersion=1 - 200 316 application/json 7.9183ms
+2025-05-28 17:33:17.005 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:44314/_blazor?id=NdZcS5yh9LwLL-jZty_B8g - null null
+2025-05-28 17:33:17.005 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-28 17:33:17.486 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44314/weather - null null
+2025-05-28 17:33:17.489 +03:00 [INF] Executing endpoint '/weather (/weather)'
+2025-05-28 17:33:18.002 +03:00 [INF] Executed endpoint '/weather (/weather)'
+2025-05-28 17:33:18.003 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44314/weather - 200 null text/html; charset=utf-8 516.5992ms
+2025-05-28 17:33:19.528 +03:00 [INF] Request starting HTTP/2 POST https://localhost:44314/_blazor/disconnect - multipart/form-data; boundary=----WebKitFormBoundaryljALXmPDLM4S75AA 359
+2025-05-28 17:33:19.529 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-28 17:33:19.532 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-28 17:33:19.533 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:44314/_blazor?id=NdZcS5yh9LwLL-jZty_B8g - 101 null null 2527.9142ms
+2025-05-28 17:33:19.537 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-28 17:33:19.538 +03:00 [INF] Request finished HTTP/2 POST https://localhost:44314/_blazor/disconnect - 200 null null 9.9498ms
+2025-05-28 17:33:20.478 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44314/counter - null null
+2025-05-28 17:33:20.480 +03:00 [INF] Executing endpoint '/counter (/counter)'
+2025-05-28 17:33:20.483 +03:00 [INF] Executed endpoint '/counter (/counter)'
+2025-05-28 17:33:20.483 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44314/counter - 200 null text/html; charset=utf-8 5.6392ms
+2025-05-28 17:33:20.488 +03:00 [INF] Request starting HTTP/2 POST https://localhost:44314/_blazor/negotiate?negotiateVersion=1 - null 0
+2025-05-28 17:33:20.488 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-28 17:33:20.488 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-28 17:33:20.489 +03:00 [INF] Request finished HTTP/2 POST https://localhost:44314/_blazor/negotiate?negotiateVersion=1 - 200 316 application/json 0.8893ms
+2025-05-28 17:33:20.493 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:44314/_blazor?id=oqsafH8YJ1CBcGd4UHIW-Q - null null
+2025-05-28 17:33:20.493 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-28 17:33:21.365 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44314/ - null null
+2025-05-28 17:33:21.368 +03:00 [INF] Executing endpoint '/ (/)'
+2025-05-28 17:33:21.371 +03:00 [INF] Executed endpoint '/ (/)'
+2025-05-28 17:33:21.372 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44314/ - 200 null text/html; charset=utf-8 6.6382ms
+2025-05-28 17:33:23.379 +03:00 [INF] Request starting HTTP/2 POST https://localhost:44314/_blazor/disconnect - multipart/form-data; boundary=----WebKitFormBoundaryLKmAEhOKLrzNUKWk 359
+2025-05-28 17:33:23.380 +03:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-28 17:33:23.380 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-28 17:33:23.380 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:44314/_blazor?id=oqsafH8YJ1CBcGd4UHIW-Q - 101 null null 2886.9397ms
+2025-05-28 17:33:23.380 +03:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2025-05-28 17:33:23.381 +03:00 [INF] Request finished HTTP/2 POST https://localhost:44314/_blazor/disconnect - 200 null null 1.4802ms
+2025-05-28 17:35:02.889 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44314/ - null null
+2025-05-28 17:35:02.894 +03:00 [INF] Executing endpoint '/ (/)'
+2025-05-28 17:35:02.895 +03:00 [INF] Executed endpoint '/ (/)'
+2025-05-28 17:35:02.896 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44314/ - 200 null text/html; charset=utf-8 6.1404ms
+2025-05-28 17:35:02.914 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44314/bootstrap/bootstrap.min.css - null null
+2025-05-28 17:35:02.916 +03:00 [INF] The file /bootstrap/bootstrap.min.css was not modified
+2025-05-28 17:35:02.916 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44314/bootstrap/bootstrap.min.css - 304 null text/css 2.0369ms
+2025-05-28 17:35:02.923 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44314/TaxCalculator.Web.styles.css - null null
+2025-05-28 17:35:02.924 +03:00 [INF] The file /TaxCalculator.Web.styles.css was not modified
+2025-05-28 17:35:02.924 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44314/app.css - null null
+2025-05-28 17:35:02.924 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44314/TaxCalculator.Web.styles.css - 304 null text/css 0.7433ms
+2025-05-28 17:35:02.924 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44314/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-28 17:35:02.924 +03:00 [INF] The file /app.css was not modified
+2025-05-28 17:35:02.924 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44314/app.css - 304 null text/css 0.6019ms
+2025-05-28 17:35:02.925 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44314/_vs/browserLink - null null
+2025-05-28 17:35:02.925 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44314/_framework/blazor.web.js - null null
+2025-05-28 17:35:02.925 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44314/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 0.5248ms
+2025-05-28 17:35:02.926 +03:00 [INF] Executing endpoint 'Blazor web static files'
+2025-05-28 17:35:02.926 +03:00 [INF] The file /_framework/blazor.web.js was not modified
+2025-05-28 17:35:02.926 +03:00 [INF] Executed endpoint 'Blazor web static files'
+2025-05-28 17:35:02.926 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44314/_framework/blazor.web.js - 304 null text/javascript 1.5724ms
+2025-05-28 17:35:02.935 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44314/_vs/browserLink - 200 null text/javascript; charset=UTF-8 10.8023ms
+2025-05-28 17:35:11.582 +03:00 [INF] User profile is available. Using 'C:\Users\AncaScanteie\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-05-28 17:35:11.733 +03:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-05-28 17:35:11.744 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44314/ - null null
+2025-05-28 17:35:11.750 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-05-28 17:35:11.750 +03:00 [INF] Hosting environment: Development
+2025-05-28 17:35:11.750 +03:00 [INF] Content root path: C:\Work\Demo\TaxCalculator.Web
+2025-05-28 17:35:11.821 +03:00 [INF] Executing endpoint '/ (/)'
+2025-05-28 17:35:11.889 +03:00 [INF] Executed endpoint '/ (/)'
+2025-05-28 17:35:11.894 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44314/ - 200 null text/html; charset=utf-8 151.5762ms
+2025-05-28 17:35:11.912 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44314/_vs/browserLink - null null
+2025-05-28 17:35:11.912 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44314/_framework/blazor.web.js - null null
+2025-05-28 17:35:11.912 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44314/_framework/aspnetcore-browser-refresh.js - null null
+2025-05-28 17:35:11.913 +03:00 [INF] Executing endpoint 'Blazor web static files'
+2025-05-28 17:35:11.915 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44314/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 2.8106ms
+2025-05-28 17:35:11.916 +03:00 [INF] The file /_framework/blazor.web.js was not modified
+2025-05-28 17:35:11.917 +03:00 [INF] Executed endpoint 'Blazor web static files'
+2025-05-28 17:35:11.918 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44314/_framework/blazor.web.js - 304 null text/javascript 6.2287ms
+2025-05-28 17:35:11.939 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44314/_vs/browserLink - 200 null text/javascript; charset=UTF-8 27.1686ms
+2025-05-28 17:35:12.043 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44314/favicon.png - null null
+2025-05-28 17:35:12.046 +03:00 [INF] The file /favicon.png was not modified
+2025-05-28 17:35:12.047 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44314/favicon.png - 304 null image/png 4.5692ms
